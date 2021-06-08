@@ -116,12 +116,13 @@ footer p {
     text-align: center;
 }
 .creativity-section .container {
-    width: 389px!important;
+       width: calc(100% - 103px)!important;
+
 }
 .creativity {
-    height: 423px!important;
-    padding: 44px 21px 2px 21px!important;
-    }
+    height: 469px!important;
+    padding: 48px 21px 2px 21px!important;
+}
  .creativity {
     margin-top: 38px;
 }
