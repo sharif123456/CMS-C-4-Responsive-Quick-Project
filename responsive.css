@@ -103,7 +103,7 @@ footer p {
     font-size: 38px!important;
 }
 .top-section img {
-    width: 416px!important;
+    width: calc(100% - 31px)!important;
 }
 .success-section .container {
     width: calc(100% - 50px);
