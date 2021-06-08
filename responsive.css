@@ -1,0 +1,128 @@
+@media(max-width: 1400px){
+
+}
+@media(max-width: 1199px){
+.top-section h1 {
+        font-size: 48px!important;}
+ .top-section p {
+    font-size: 15px!important;
+}
+
+.left h1 {
+    font-size: 40px;
+}
+.left p {
+    font-size: 15px;
+}
+.right h1 {
+    font-size: 40px;}
+.creativity {
+    height: 409px!important;
+    padding: 44px 20px 2px 20px!important;
+}
+footer p {
+    font-size: 13px!important;
+	
+}
+@media(max-width: 991px){
+	.success-section .container {
+    width: 736px;
+}
+.top-section .container {
+    width: 703px;
+}
+.top-section h1 {
+    font-size: 46px!important;
+}
+.top-section p {
+    font-size: 14px!important;
+}
+.top-section img {
+    width: 520px!important;
+}
+	.right h1 {
+    font-size: 37px;
+}
+.left h1 {
+    font-size: 38px;
+}
+.left p {
+    font-size: 14px;
+}
+.creativity {
+    height: 424px!important;
+    padding: 44px 15px 2px 15px!important;
+    margin-right: -6px;
+    margin-left: -6px;
+    margin-top: 26px;
+}
+.creativity h1 {
+    font-size: 16px;}
+ .creativity p {
+    font-size: 14px;
+}
+.container {
+    max-width: 755px!important;
+}
+.creativity h1 {
+    font-size: 15px;
+}
+.creativity p {
+    font-size: 14px;
+}
+footer p {
+    font-size: 12px!important;
+}
+}
+@media(max-width: 767px){
+	.top-section .container {
+    width: 540px;
+}
+	.top-section h1 {
+    font-size: 42px!important;
+}
+	.top-section img {
+    width: 461px!important;
+}
+	.success-section .container {
+    width: 539px;
+}
+.creativity-section .container {
+    width: 520px!important;
+}
+.creativity {
+    margin-top: 20px;
+}
+}
+
+@media(max-width: 575px){
+.top-section .container {
+    width: 480px;
+}
+.top-section h1 {
+    font-size: 38px!important;
+}
+.top-section img {
+    width: 416px!important;
+}
+.success-section .container {
+    width: 463px!important;
+    text-align: center;
+}
+.left h1 {
+    font-size: 43px;
+}
+.success-section .left {
+    text-align: center;
+}
+.creativity-section .container {
+    width: 389px!important;
+}
+.creativity {
+    height: 423px!important;
+    padding: 44px 21px 2px 21px!important;
+    }
+ .creativity {
+    margin-top: 38px;
+}
+}
