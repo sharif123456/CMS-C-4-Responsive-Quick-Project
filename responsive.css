@@ -116,7 +116,7 @@ footer p {
     text-align: center;
 }
 .creativity-section .container {
-       width: calc(100% - 103px)!important;
+       width: calc(100% - 50px)!important;
 
 }
 .creativity {
