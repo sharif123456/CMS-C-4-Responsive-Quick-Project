@@ -97,7 +97,7 @@ footer p {
 
 @media(max-width: 575px){
 .top-section .container {
-    width: 480px;
+    width: calc(100% - 50px);
 }
 .top-section h1 {
     font-size: 38px!important;
@@ -106,7 +106,7 @@ footer p {
     width: 416px!important;
 }
 .success-section .container {
-    width: 463px!important;
+    width: calc(100% - 50px);
     text-align: center;
 }
 .left h1 {
